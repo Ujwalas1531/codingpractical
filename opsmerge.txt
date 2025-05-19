@@ -1,0 +1,15 @@
+git pull 
+git checkout 
+git branch
+git checkout -b dev
+git branch
+git switch main
+git add .
+git commit -m "added text"
+git switch dev
+git add.
+git branch
+git merge main
+git add 
+git commit 
+git log --graph
